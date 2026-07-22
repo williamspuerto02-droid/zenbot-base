@@ -62,7 +62,7 @@ Cuando aparezca el popup de permisos → tocá **Permitir**. Esto habilita el ac
 ### 3 — Clonar el repositorio
 
 ```bash
-git clone https://github.com/Axelix09/zenbot-base.git /sdcard/zenbot-base
+git clone https://github.com/williamspuerto02-droid/zenbot-base.git /sdcard/zenbot-base
 cd /sdcard/zenbot-base
 ```
 
