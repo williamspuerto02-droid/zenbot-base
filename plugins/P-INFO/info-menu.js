@@ -13,7 +13,7 @@ const IMAGENES = [
   'https://i.postimg.cc/rwP1w2jN/square-crop.jpg',
   'https://i.postimg.cc/y8VQZK0L/square-crop.png',
   'https://i.postimg.cc/76CQZNSS/img6.jpg',
-  'https://i.postimg.cc/Qd4bKT8g/img10.jpg',
+  'https://ibb.co/qz8TS1P',
 ]
 
 const ETIQUETAS = {
