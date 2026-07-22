@@ -9,11 +9,11 @@ const START_TIME = Date.now()
 
 // Cambiá estas imágenes por las tuyas
 const IMAGENES = [
-  'https://ibb.co/y9cdP12',
-  'https://ibb.co/p6ntQ4m2',
-  'https://ibb.co/zV673QMy',
-  'https://ibb.co/7dXtPfVq',
-  'https://ibb.co/qz8TS1P',
+  'https://ibb.co/dwxWKFMV',
+  'https://ibb.co/WpkwzLRd',
+  'https://ibb.co/JWPTsCk4',
+  'https://ibb.co/S2YKKvH',
+  'https://ibb.co/Kjrd9zF1',
 ]
 
 const ETIQUETAS = {
