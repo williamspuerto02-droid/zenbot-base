@@ -1,6 +1,6 @@
 const config = {
-  botName: 'ZΞN-BOT',
-  ownerName: 'AXELDEV09',
+  botName: '𝐒𝐈𝐅𝐔-𝐁𝐎𝐓',
+  ownerName: '𝐖𝐬𝐢𝐟𝐮',
   version: '1.0.0',
   prefix: /^[.#/!]/,
   ownerNumber: ['549XXXXXXXXXX'],  // ← Cambia por tu número
@@ -13,8 +13,8 @@ const config = {
     muteMs: 15000,
   },
   groupLink: 'https://whatsapp.com/channel/XXXXXXXX',  // ← Cambia por tu canal
-  packname: 'ZΞN-BOT',
-  author: 'AXELDEV09',
+  packname: '𝐒𝐈𝐅𝐔-𝐁𝐎𝐓',
+  author: '𝐛𝐲 AXELDEV09',
 }
 
 export default config
