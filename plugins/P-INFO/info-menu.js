@@ -9,11 +9,11 @@ const START_TIME = Date.now()
 
 // Cambiá estas imágenes por las tuyas
 const IMAGENES = [
-  'https://i.ibb.co/ZzDLjShT/6-Pdo7j-Jq-fond-decran-Gojo-Sotaru-49.jpg',
-  'https://i.ibb.co/gstbvMx/wp11845569.jpg',
-  'https://i.ibb.co/TB83V4cy/thumbbig-1334857.jpg',
-  'https://i.ibb.co/VWS1C2Jj/gojo-satoru-holding-his-face-iyrluirbzvncz77a.jpg',
-  'https://i.ibb.co/whMxn3nF/Rty-Ri9-Rc-fond-decran-Gojo-Sotaru-63.jpg',
+  'https://i.postimg.cc/HsS561qY/20260503-190555.jpg',
+  'https://i.postimg.cc/rwP1w2jN/square-crop.jpg',
+  'https://i.postimg.cc/y8VQZK0L/square-crop.png',
+  'https://i.postimg.cc/76CQZNSS/img6.jpg',
+  'https://i.postimg.cc/Qd4bKT8g/img10.jpg',
 ]
 
 const ETIQUETAS = {
