@@ -9,10 +9,10 @@ const START_TIME = Date.now()
 
 // Cambiá estas imágenes por las tuyas
 const IMAGENES = [
-  'https://i.postimg.cc/HsS561qY/20260503-190555.jpg',
-  'https://i.postimg.cc/rwP1w2jN/square-crop.jpg',
-  'https://i.postimg.cc/y8VQZK0L/square-crop.png',
-  'https://i.postimg.cc/76CQZNSS/img6.jpg',
+  'https://ibb.co/y9cdP12',
+  'https://ibb.co/p6ntQ4m2',
+  'https://ibb.co/zV673QMy',
+  'https://ibb.co/7dXtPfVq',
   'https://ibb.co/qz8TS1P',
 ]
 
