@@ -4,7 +4,7 @@ import { groupCache, groupDbCache } from '../lib/caches.js'
 
 const DEFAULT_BV = '*╭┈ ✧ ¡BIENVENIDO/A! ✧ ┈*\n*│* 👋🏻 Hola, %user\n*│* ⛩️ Grupo: *%group*\n*│* 👥 Miembro N°: *%count*\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈*\n> 🌟 _Disfrutá tu estadía y recordá leer las reglas._'
 const DEFAULT_DP = '*╭┈ ✧ ¡HASTA PRONTO! ✧ ┈*\n*│* 🚪 %user ha salido.\n*│* 📉 Quedamos *%count* miembros.\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈*\n> 🥀 _Esperamos que vuelvas algún día..._'
-const DEFAULT_IMG = 'https://i.ibb.co/sphnd13T/images-4.jpg'
+const DEFAULT_IMG = 'https://i.ibb.co/jP3BscHt/img6.jpg'
 
 async function getBuffer(url) {
   try {
