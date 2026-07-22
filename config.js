@@ -3,7 +3,7 @@ const config = {
   ownerName: '𝐖𝐬𝐢𝐟𝐮',
   version: '1.0.0',
   prefix: /^[.#/!]/,
-  ownerNumber: ['549XXXXXXXXXX'],  // ← Cambia por tu número
+  ownerNumber: ['13463689362'],  // ← Cambia por tu número
   MODE: 'public',
   usePairingCode: true,
   antiSpam: {
